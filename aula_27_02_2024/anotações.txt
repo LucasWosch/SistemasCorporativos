@@ -1,0 +1,22 @@
+Processo -> Conjunto de Tarefas
+Teoria Geral de Sistemas
+
+Representação Empresariais
+Visão Funcional
+Organograma
+  - Hierarquia
+    - Controle
+    - Responsabilidade
+
+Porter  (Recomendação: Denis Reznende)
+Organiza a empresa de acordo com os problemas empresariais
+
+Cria níveis para os problemas:
+  Base - Problemas Operacionais
+          - Problemas do dia a dia (Produção e atendimento)
+  Meio - Problemas Táticos/Gerenciais
+  Topo - Problemas Estratégicos
+
+Entregamos velocidade, automação e conforto
+
+O processo de negocios é percebido pelo cliente, por isso precisa ser entregue valor
