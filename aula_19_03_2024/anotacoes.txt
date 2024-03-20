@@ -1,1 +1,6 @@
+1 - Verificar se possui Node instalado
+2 - Instalar Express
+  npm install -g express-generator
 
+3 - Cria o projeto
+  express --no-view login-project
