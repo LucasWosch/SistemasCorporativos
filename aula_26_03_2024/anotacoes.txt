@@ -1,5 +1,14 @@
 CREATE database SC;
 USE SC;
-CREATE USER 'DEVUSER' @ 'LOCALHOST' identified by 'dev@123';
-GRANT ALL PRIVILEGES ON *.* TO 'DEVUSER' @ 'LOCALHOST' WITH GRANT OPTION;
+CREATE USER 'devuser'@'localhost' identified by 'dev@123';
+GRANT ALL PRIVILEGES ON *.* TO 'devuser'@'localhost' WITH GRANT OPTION;
 FLUSH PRIVILEGES;
+
+
+node --version
+npm install -g express-generator sequelize-cli
+express --no-view (nome do projeto)
+cd (nome do projeto)
+npm install sequelize sequelize-cli
+npx sequelize-cli init
+
